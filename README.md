@@ -8,7 +8,6 @@ Simulador do campeonato brasileiro 2026 com 20 equipes,
 - Java
 - Programação Orientada a Objetos
 - Java Swing
-- ...
 
 ## Funcionalidades
 
@@ -16,7 +15,6 @@ Simulador do campeonato brasileiro 2026 com 20 equipes,
 - Simulação dos resultados
 - Atualização da classificação
 - Exibição da tabela
-- ...
 
 ## Como funciona
 
